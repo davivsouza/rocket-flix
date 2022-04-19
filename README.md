@@ -23,7 +23,8 @@
 
 
 <h3 id="objetivos">Objetivo 🎯</h3>
-
+Desenvolver um site onde o usuário que quer ver um filme, porém está na dúvida de qual escolher.
+Possa com apenas um clique gerar um filme aleatório, e assim ele consiga encontrar um filme que o interesse.
 
 
 ### Features
