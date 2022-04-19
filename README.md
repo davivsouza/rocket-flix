@@ -1,3 +1,9 @@
+<div align="center">
+  <img  src="https://img.shields.io/github/issues/davivsouza/rocket-flix"/>
+  <img  src="https://img.shields.io/github/forks/davivsouza/rocket-flix"/>
+  <img  src="https://img.shields.io/github/stars/davivsouza/rocket-flix"/>
+  <img  src="https://img.shields.io/github/license/davivsouza/rocket-flix"/>
+</div>
 <p align="center">
   <a href="https://unform.dev">
     <img src="./public/assets/shuffle.svg" height="150" width="175" alt="Unform" />
@@ -5,11 +11,7 @@
 </p>
 <h1 align="center">Rocketflix</h1>
 <p align="center">🚀 Desafio proposto pela Rocketseat  do curso Discover, de um gerador de filme randômico </p>
-<div align="center">
-  <img  src="https://img.shields.io/github/issues/davivsouza/rocket-flix"/>
-  <img  src="https://img.shields.io/github/forks/davivsouza/rocket-flix"/>
-  <img  src="https://img.shields.io/github/stars/davivsouza/rocket-flix"/>
-</div>
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
