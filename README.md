@@ -12,7 +12,6 @@
 </div>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
@@ -34,6 +33,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+
+
 ### 🎲 Rodando o pojeto na sua máquina
 
 ```bash
@@ -51,3 +52,6 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+Obs: Esse projeto foi feito com uso de uma api que necessita de uma key. 
+Faça seu registro e pegue a key neste [link](https://www.themoviedb.org/documentation/api)
+link de exemplo para fazer requisição: "https://api.themoviedb.org/3/movie/550?api_key=sua-api-key"
