@@ -74,9 +74,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-components](https://styled-components.com/docs)
 - [Axios](https://github.com/axios/axios)
 
-### Autor
+<h1 id="autor"> Autor</h1>
 ---
-
 <a href="https://github.com/davivsouza/">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGLZpA0YGZtCg/profile-displayphoto-shrink_200_200/0/1649967368945?e=1655942400&v=beta&t=aleGZbV_ZmechChGAZW0g4iiaZsuuP0Dkd03mtoggfo" width="100px;" alt=""/>
  <br />
