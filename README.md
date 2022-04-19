@@ -80,7 +80,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/davivsouza/">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGLZpA0YGZtCg/profile-displayphoto-shrink_200_200/0/1649967368945?e=1655942400&v=beta&t=aleGZbV_ZmechChGAZW0g4iiaZsuuP0Dkd03mtoggfo" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Davi Souza</b></sub></a> <a href="https://github.com/davivsouza/" title="Davi V. Souza">🕊</a>
 
 
 Feito com ❤️ por Davi V. Souza 👋🏽 Entre em contato!
