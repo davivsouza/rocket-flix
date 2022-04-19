@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 interface Props {
   IsTheMovieGenerated?: boolean;
-  notFound?: boolean
+  notFound?: boolean;
 }
 
 export const MainContainer = styled.main`
@@ -56,13 +56,13 @@ export const Description = styled.p`
 `;
 
 export const MovieContainer = styled.section<Props>`
+  max-width: 60%;
   display: ${(props) => (props.IsTheMovieGenerated ? "flex" : "none")};
   align-items: center;
   justify-content: center;
 `;
 
 export const Poster = styled.div<Props>`
-
   max-width: 80%;
 
   gap: 1.875rem;
@@ -86,7 +86,7 @@ export const MovieDetails = styled.div`
   }
 
   p {
-    width: 90% ;
+    width: 100%;
     font-size: 0.85rem;
     color: #fff;
     font-family: "Poppins", sans-serif;
