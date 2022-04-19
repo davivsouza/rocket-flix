@@ -54,4 +54,5 @@ $ npm run dev
 ```
 Obs: Esse projeto foi feito com uso de uma api que necessita de uma key. 
 Faça seu registro e pegue a key neste [link](https://www.themoviedb.org/documentation/api)
+
 link de exemplo para fazer requisição: "https://api.themoviedb.org/3/movie/550?api_key=sua-api-key"
