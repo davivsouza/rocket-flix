@@ -18,7 +18,7 @@
  <a href="#autor">Autor</a>
 </p>
 <h4 align="center"> 
-	🚧  Rocketflix 🚀 Em andamento...  🚧
+	🚧  Rocketflix 🚀 Concluído.  🚧
 </h4>
 
 ### Features
@@ -26,6 +26,12 @@
 - [x] Ao clicar no botão, fazer uma requisição na api
 - [x] Caso a requisição falhe, mostrar tela de not found personalizada
 - [ ] Responsividade
+
+<div align="center">
+  <img  width="400px" height="400px" src="./github/rocketflix.gif"/>
+  <img  width="400px"  height="400px" src="./github/not-found-screenshot.png"/>
+</div>
+
 
 ### Pré-requisitos
 
