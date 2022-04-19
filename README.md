@@ -14,7 +14,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Pré-requisitos</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#autor">Autor</a>
 </p>
 <h4 align="center"> 
@@ -26,8 +26,7 @@
 Desenvolver um site onde o usuário que quer ver um filme, porém está na dúvida de qual escolher.
 Possa com apenas um clique gerar um filme aleatório, e assim ele consiga encontrar um filme que o interesse.
 
-
-### Features
+<h3 id="funcionalidades">Funcionalidades</h3>
 
 - [x] Ao clicar no botão, fazer uma requisição na api
 - [x] Caso a requisição falhe, mostrar tela de not found personalizada
@@ -50,7 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/davivsouza/rocket-flix>
+$ git clone <https://github.com/davivsouza/rocket-flix.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd rocket-flix
