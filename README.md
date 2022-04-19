@@ -77,8 +77,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://github.com/davivsouza/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGLZpA0YGZtCg/profile-displayphoto-shrink_200_200/0/1649967368945?e=1655942400&v=beta&t=aleGZbV_ZmechChGAZW0g4iiaZsuuP0Dkd03mtoggfo" width="100px;" alt=""/>
  <br />
  <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
