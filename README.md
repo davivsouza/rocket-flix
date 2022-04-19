@@ -85,5 +85,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Davi V. Souza 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/)](https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Davi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/)](https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/) 
 [![Gmail Badge](https://img.shields.io/badge/-davivasconcelossouza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davivasconcelossouza21@gmail.com)](mailto:davivasconcelossouza21@gmail.com)
