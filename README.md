@@ -73,3 +73,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/docs)
 - [Axios](https://github.com/axios/axios)
+
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por Davi V. Souza 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/)](https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/) 
+[![Gmail Badge](https://img.shields.io/badge/-davivasconcelossouza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davivasconcelossouza21@gmail.com)](mailto:davivasconcelossouza21@gmail.com)
