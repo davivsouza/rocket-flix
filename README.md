@@ -17,7 +17,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Pré-requisitos</a> • 
+ <a href="#pre-req">Pré-requisitos</a> • 
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#autor">Autor</a>
 </p>
