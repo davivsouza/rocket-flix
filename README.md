@@ -62,3 +62,14 @@ Obs: Esse projeto foi feito com uso de uma api que necessita de uma key.
 Faça seu registro e pegue a key neste [link](https://www.themoviedb.org/documentation/api)
 
 link de exemplo para fazer requisição: "https://api.themoviedb.org/3/movie/550?api_key=sua-api-key"
+
+
+<h1 id="tecnologias">🛠 Tecnologias</h1>
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/docs)
+- [Axios](https://github.com/axios/axios)
