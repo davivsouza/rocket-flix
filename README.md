@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://unform.dev">
+  <a href="#">
     <img src="./public/assets/shuffle.svg" height="150" width="175" alt="Unform" />
   </a>
 </p>
